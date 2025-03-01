@@ -44,3 +44,8 @@ pip install ffmpeg-python
  ```
 
  This will output the compressed video as 'output.mp4'
+
+
+ ## GUI
+
+ In the Dist folder there is the exe file and the setup file, those will respectively run and install the program on your windows system.
